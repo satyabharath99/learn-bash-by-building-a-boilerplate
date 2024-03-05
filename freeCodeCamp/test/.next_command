@@ -276,3 +276,11 @@ ls --color=auto
 mv header.png client/assets/images/
 find images
 find -name images
+mv client/assets/images/header.png ../../..
+mv client/assets/images/header.png ..
+find header.png
+find -name header.png
+cd ..
+mv header.png website/
+cd website/
+mv header.png client/assets/images/
