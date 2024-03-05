@@ -239,3 +239,4 @@ mv roboto.woff ./images/
 mv ./images/roboto.woff ./fonts
 find website
 find
+mv lato.ttf ./fonts/
