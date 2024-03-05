@@ -306,3 +306,6 @@ touch client/assets/fonts/lato-bold.tff
 mv client/assets/fonts/lato-bold.tff client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.ttf
 find
+rm -r fonts
+rm -help
+rm --help
