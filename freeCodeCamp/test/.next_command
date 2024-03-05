@@ -286,3 +286,4 @@ cd website/
 mv header.png client/assets/images/
 find -name header.png
 find -name footer.jpeg
+mv images/footer.jpeg client/assets/images/
