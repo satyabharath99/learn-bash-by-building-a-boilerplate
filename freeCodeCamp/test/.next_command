@@ -218,3 +218,4 @@ ls --color=auto
 touch header.png
 ls --color=auto
 cp header.png ./images
+cp footer.jpeg ./images
