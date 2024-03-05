@@ -222,3 +222,5 @@ cp footer.jpeg ./images
 cd images
 ls --color=auto
 ls --color=auto
+cd website
+cd ..
