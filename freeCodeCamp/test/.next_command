@@ -203,3 +203,18 @@ cd ..
 ls --color=auto
 rm background.jpg
 ls --color=auto
+rm header.png ./images
+rm ./images/header.png
+ls --color=auto
+cd images
+ls --color=auto
+rm CodeAlly.svg CodeRoad.svg freeCodeCamp.svg
+ls --color=auto
+rm footer.jpeg
+ls --color=auto
+cd..
+cd ..
+ls --color=auto
+touch header.png
+ls --color=auto
+cp header.png ./images
