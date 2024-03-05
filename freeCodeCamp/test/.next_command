@@ -331,3 +331,4 @@ cd ..
 ls --color=auto
 mvdir website website-boilerplate
 mv website website-boilerplate
+ls --color=auto
