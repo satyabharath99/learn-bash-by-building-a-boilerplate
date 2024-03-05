@@ -161,3 +161,27 @@ touch CodeRoad.svg
 touch freeCodeCamp.svg
 ls --color=auto
 mkdir images
+ls --color=auto ./website
+ls --color=auto
+mkdir
+mkdir website
+touch background.jpg
+cd website
+touch footer.jpeg
+touch header.png
+touch background.jpg
+touch CodeRoad.svg
+touch freeCodeCamp.svg
+touch CodeAlly.svg
+touch index.html
+touch index.js
+touch styles.css
+touch roboto.font,lato.font,menlo.font
+rm roboto.font,lato.font,menlo.font
+touch roboto.font
+touch menlo.font
+touch lato.font
+cd ..
+rm background.jpg
+cd website/
+ls --color=auto
