@@ -185,3 +185,15 @@ cd ..
 rm background.jpg
 cd website/
 ls --color=auto
+mkdir images
+ls --color=auto
+cp CodeAlly.svg CodeRoad.svg freeCodeCamp.svg ./images
+cp background.jpg ./images
+cp footer.jpeg ./images
+cp header.png ./images
+ls --color=auto
+cd images
+ls --color=auto
+rm background.jpg
+cd ..
+cp background.jpg ./images
